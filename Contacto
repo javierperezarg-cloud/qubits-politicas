@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Contacto</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 40px; }
+    .contact-info { margin-top: 30px; line-height: 1.6; font-size: 16px; }
+    .contact-info strong { display: block; margin-top: 10px; font-size: 18px; color: #0066cc; }
+    a { display: block; margin: 15px; font-size: 18px; text-decoration: none; color: #0066cc; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Información de Contacto</h1>
+  <p>Si tienes alguna pregunta sobre nuestra política de privacidad, términos de servicio o sobre el asistente de citas, puedes contactarnos directamente.</p>
+  
+  <div class="contact-info">
+    <strong>Consultorio Odontológico Qubits</strong>
+    <p>
+      Correo Electrónico de Asistencia:<br>
+      javier.perez.arg@gmail.com
+    </p>
+    <p>
+      Teléfono de Contacto:<br>
+      [Tu Número de Teléfono Aquí]
+    </p>
+  </div>
+
+  <p><a href="Index.html">⬅️ Volver al inicio</a></p>
+</body>
+</html>
